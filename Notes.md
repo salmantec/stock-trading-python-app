@@ -4,7 +4,7 @@
 
 **(1.2) How do they work ?**
 - Cron - the very first technology really need to learn to really understand data pipeline
-- Cron is based on your computer’s clock, and you computer’s clock is based on a number of seconds since January 1st 1970
+- Cron is based on your computer’s clock, and your computer’s clock is based on a number of seconds since January 1st 1970 (called as EPOCH)
 - Cron is the ability to schedule things based on the number of seconds between tasks
 - Cron is the technology that allows data pipelines to schedule and this causes the magic to happen, this is the automation part.
 - Cron is the fundamental technology under all pipeline tools like Airflow and Dagster and Databricks workflow
